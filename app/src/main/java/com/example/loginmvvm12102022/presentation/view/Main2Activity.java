@@ -11,7 +11,7 @@ public class Main2Activity  extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.d("Man hinh 2","dang o man hinh 2");
+
 
     }
 
